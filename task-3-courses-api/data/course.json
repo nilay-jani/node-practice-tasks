@@ -1,0 +1,6 @@
+[
+  { "id": 1, "title": "React Mastery", "category": "frontend", "price": 4999 },
+  { "id": 2, "title": "Node.js & Express", "category": "backend", "price": 5999 },
+  { "id": 3, "title": "MySQL with Drizzle", "category": "database", "price": 3999 },
+  { "id": 4, "title": "Next.js Pro", "category": "frontend", "price": 6999 }
+]
